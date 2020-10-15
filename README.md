@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Pieloaf/Pieloaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Heyo :)) Welcome to my profile
+
+## [![My Github stats](https://github-readme-stats.vercel.app/api?username=pieloaf&show_icons=true&theme=dracula)](https://https://github.com/ohIeg/github-readme-stats)
+
+## [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieloaf&layout=compact&show_icons=true&theme=dracula)](https://https://github.com/ohIeg/github-readme-stats)
