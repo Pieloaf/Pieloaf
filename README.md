@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Heyo, Welcome to my profile
-## [![My Github stats](https://github-readme-stats.vercel.app/api?username=pieloaf&show_icons=true&theme=nord)](https://github.com/pieloaf/)
-
+[![My Github stats](https://github-readme-stats.vercel.app/api?username=pieloaf&show_icons=true&theme=nord)](https://github.com/pieloaf/)
 [![My Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pieloaf&layout=compact&show_icons=true&theme=nord)](https://github.com/pieloaf)
 
 ## I love music so here's what I'm listening to rn :))
