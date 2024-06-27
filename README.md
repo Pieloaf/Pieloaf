@@ -1,5 +1,6 @@
 ## Heyo, welcome to my GitHub Profile :D
-- Bluetooth R&D (Test Engineer) @ Nordic Semi 📶
+- Currently: Starting MSc in Electronics and Computer Engineering
+- Previous Work: Bluetooth R&D (Test Engineer) @ Nordic Semi 📶
 - BEng in Computer and Communications Engineering 👨🏻‍🎓
 - Enjoyer of C and Python 🧑🏻‍💻
 - Ex-competetive gymnast 🤸🏼‍♂️
