@@ -1,8 +1,10 @@
 ## Heyo, welcome to my GitHub Profile :D
-- Currently: Starting MSc in Electronics and Computer Engineering
+- Currently: Baking bread while transitioning to a career in Sustainable Food Systems
 - Previous Work: Bluetooth R&D (Test Engineer) @ Nordic Semi 📶
-- BEng in Computer and Communications Engineering 👨🏻‍🎓
-- Enjoyer of C and Python 🧑🏻‍💻
+- BEng in Computer and Communications Engineering 👨🏻‍🎓 (First Class Honours)
+- Currently taking postgrad microcredentials in:
+  - Climate Change: Science, Policy and Global Impact at UCC
+  - Global Food Systems at UCD
 - Ex-competetive gymnast 🤸🏼‍♂️
 - Also love art and music 🎭
 
